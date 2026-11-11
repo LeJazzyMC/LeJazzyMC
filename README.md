@@ -14,7 +14,7 @@
 
 ### À propos
 
-Streamer sur Twitch depuis 5 ans, principalement sur Minecraft, je publie également des vidéos sur YouTube. En parallèle, je conçois et développe mes propres jeux, sur Roblox et sur mobile.
+Streamer sur Twitch depuis 5 ans, principalement sur Minecraft, je publie également des vidéos sur YouTube. En parallèle, je conçois et développe mes propres jeux, sur Roblox
 
 ### Projets
 
@@ -22,6 +22,10 @@ Streamer sur Twitch depuis 5 ans, principalement sur Minecraft, je publie égale
 |---|---|---|---|
 | **Jeu Roblox** | Roblox | Lance la Bouffe aux Brainrots | En développement |
 
+### Dernières vidéos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ### Outils
 
