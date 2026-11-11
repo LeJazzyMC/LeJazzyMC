@@ -14,7 +14,7 @@
 
 ### À propos
 
-Streamer sur Twitch depuis 5 ans, principalement sur Minecraft, je publie également des vidéos sur YouTube. En parallèle, je conçois et développe mes propres jeux, sur Roblox et sur mobile.
+Streamer sur Twitch depuis 5 ans, principalement sur Minecraft, je publie également des vidéos sur YouTube. En parallèle, je conçois et développe mes propres jeux, sur Roblox
 
 ### Projets
 
