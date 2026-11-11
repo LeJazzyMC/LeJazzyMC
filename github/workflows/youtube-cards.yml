@@ -1,0 +1,22 @@
+name: Dernières vidéos YouTube
+
+on:
+  schedule:
+    # Vérifie les nouvelles vidéos toutes les 6 heures
+    - cron: "17 */6 * * *"
+  # Permet de lancer la mise à jour à la main depuis l'onglet Actions
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    # Autorise l'automatisation à modifier le README
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          # Remplace par l'ID de ta chaîne (commence par UC)
+          channel_id: UCtQ9PNJDbCGvI0TvL3V-Kvw
+          lang: fr
+          max_videos: 4
