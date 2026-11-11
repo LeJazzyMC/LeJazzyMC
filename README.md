@@ -1,36 +1,32 @@
+<h1 align="center">LeJazzy</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=5FD068&center=true&vCenter=true&width=600&lines=Salut,+moi+c%27est+LeJazzy+!;Streamer+Twitch+depuis+5+ans;Dev+de+jeux+Roblox+%26+mobile" alt="Texte animé" />
+  <strong>Créateur de contenu &amp; développeur de jeux indépendant</strong>
 </p>
 
 <p align="center">
-  <a href="https://twitch.tv/lejazzymc"><img src="https://img.shields.io/badge/Twitch-lejazzymc-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://youtube.com/@LeJazzy878"><img src="https://img.shields.io/badge/YouTube-@LeJazzy878-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://discord.gg/spWsNbPG"><img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
-## 👋 À propos
-
-- 🎮 Je streame sur **Twitch** depuis 5 ans, surtout sur **Minecraft**
-- 🛠️ Je développe mes propres jeux : un **jeu Roblox** et **Bascule**, un jeu mobile d'arcade
-- 📺 Je poste des vidéos sur **YouTube**
-- 💬 Viens dire salut sur le **Discord** !
-
-## 🚧 Projets en cours
-
-| Projet | Description | Statut |
-|---|---|---|
-| 🧱 **Jeu Roblox** | Lancer de la nourriture pour des braintot. | En développement |
-
-## 🧰 Ce que j'utilise
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,lua,vscode,git,github,claude&theme=dark" alt="Outils" />
+  <a href="https://twitch.tv/lejazzymc"><img src="https://img.shields.io/badge/Twitch-lejazzymc-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://youtube.com/@LeJazzy878"><img src="https://img.shields.io/badge/YouTube-@LeJazzy878-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://discord.gg/spWsNbPG"><img src="https://img.shields.io/badge/Discord-Communauté-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeJazzyMC&label=Vues+du+profil&color=5FD068&style=flat-square" alt="Vues du profil" />
-</p>
+### À propos
+
+Streamer sur Twitch depuis 5 ans, principalement sur Minecraft, je publie également des vidéos sur YouTube. En parallèle, je conçois et développe mes propres jeux, sur Roblox et sur mobile.
+
+### Projets
+
+| Projet | Plateforme | Description | Statut |
+|---|---|---|---|
+| **Jeu Roblox** | Roblox | Lance la Bouffe aux Brainrots | En développement |
+
+
+### Outils
+
+<p> <img src="https://skillicons.dev/icons?i=robloxstudio,lua,vscode,git,github&theme=dark" alt="Roblox Studio, Lua, VS Code, Git, GitHub" /> <img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" height="48" /> </p>
+
+### Contact
+
+Pour toute collaboration ou proposition, retrouvez-moi sur [Discord](https://discord.gg/spWsNbPG) ou sur [Twitch](https://twitch.tv/lejazzymc).
